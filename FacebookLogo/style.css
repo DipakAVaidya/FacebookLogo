@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    /* background-color: black;
+    color: aliceblue; */
+}
+
+.logo{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.facebook{
+    position: relative;
+    height: 350px;
+    width: 350px;
+    background-color: #1877f2;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    box-shadow: 12px 12px 40px 9px #535353;
+
+
+
+}
+
+span{
+    margin-top: 0.312em;
+    font-size: 28em;
+    color: #fff;
+    font-weight: 600;
+    font-family: Arial ; 
+    cursor: default;
+
+
+}
+
+span::before{
+    content: '';
+    position: absolute;
+    width: 30px;
+    height: 50px;
+    background-color: #1877f2;
+    top: 0.376em;
+    right: 0.172em;
+    transform: rotate(8deg);
+
+}
+
+span::after{
+    content: '';
+    position: absolute;
+    width: 30px;
+    height: 50px;
+    background-color: #1877f2;
+    top: 0.168em;
+    right: 0.172em;
+}
+
+/* span:hover{
+    background-color: black;
+} */
+
+p{
+    position: absolute;
+    top: 8em;
+    font-size: 3em;
+    font-weight: 750;
+    color: #fff;
+    text-shadow: 3px 3px 5px #535353;
+    -webkit-text-stroke: 1.5px #1877f2;
+
+
+
+    
+}
