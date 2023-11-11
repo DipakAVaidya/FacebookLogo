@@ -84,8 +84,12 @@ p{
     color: #fff;
     text-shadow: 3px 3px 5px #535353;
     -webkit-text-stroke: 1.5px #1877f2;
+    text-decoration: none;
 
 
 
     
+}
+a{
+    text-decoration: none;
 }
