@@ -46,6 +46,3 @@ Feel free to customize the styles in the `style.css` file to suit your preferenc
 
 - Dipak Vaidya (https://github.com/DipakAVaidya)
 
----
-
-Replace `your-username` and `Your Name` with your GitHub username and your name, respectively. If you deploy your project to GitHub Pages, update the live preview link accordingly. This README provides a basic structure, and you can add more details or sections as needed.
