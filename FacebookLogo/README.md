@@ -3,7 +3,7 @@
 
 ## Preview
 
-For a live preview, visit [Facebook Logo](https:// https://dipakavaidya.github.io/Logos/FacebookLogo).
+For a live preview, visit [Facebook Logo](https://dipakavaidya.github.io/Logos/FacebookLogo).
 
 
 ## Table of Contents
